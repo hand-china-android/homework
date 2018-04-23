@@ -22,3 +22,6 @@ root
     │   commit_name.txt
     │   problemdescription.txt
 ```
+
+## 代码提交说明
+master 分支是受保护分支，除去管理员外其他人都不能直接push代码到该分支， 作业提交人员提交做的形式是先new出自己的作业分支（命名形式--作业内容_提交人名字）在该新建分支下提交自己的作业内容，然后完成后再向master分支提交push request或者merge code 请求

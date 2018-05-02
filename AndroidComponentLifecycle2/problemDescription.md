@@ -1,4 +1,4 @@
-#Activity Lifecycle 深入
+# Activity Lifecycle 深入
 
 	- 请描述一下onCreate(Bundle) 方法参数有什么作用
 	- 请描述一下当手机发生横竖屏旋转时，activity stack 中栈顶activity的生命周期函数的调用过程.
